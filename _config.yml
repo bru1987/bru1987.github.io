@@ -1,7 +1,7 @@
 # Site Settings
 title: My Resume
-url: 'http://bruno3s.com.br'
-baseurl: '/bruno3s' #change it according to your repository name
+url: "http://bruno3s.com.br"
+baseurl: "" #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 repository: bruno3s/bru1987
 permalink: pretty
