@@ -203,9 +203,9 @@ body.page-template-page-fullsingle-split {
       border-bottom: 1px dotted #CA486d; }
 
 .split-lists .split-list {
-  width: 30%;
+  width: 100%;
   display: inline-block;
-  margin-bottom: 40px; }
+  margin-bottom: 20px; }
   @media (max-width: 500px) {
     .split-lists .split-list {
       width: 90%; } }
@@ -214,7 +214,7 @@ body.page-template-page-fullsingle-split {
     text-transform: uppercase;
     font-size: 11px;
     line-height: 11px;
-    margin-bottom: 31px;
+    margin-bottom: 0px;
     color: #848d96;
     letter-spacing: 2px;
     opacity: 0.5; }
@@ -228,6 +228,12 @@ body.page-template-page-fullsingle-split {
       .split-lists .split-list ul li a:hover {
         color: #CA486d;
         transition-duration: 0.1s; }
+
+.split-lists .split-list li {
+  width: 32%;
+  display: inline-block;
+}
+
 
 .split-credit {
   opacity: 0.4; }
