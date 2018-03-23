@@ -116,6 +116,11 @@ body.page-template-page-fullsingle-split {
   body.page-template-page-fullsingle-split p {
     color: #848d96; }
 
+ul#projects {
+  line-height: 0rem;
+  margin-top: 12px;
+}
+
 .fs-split {
   width: 100vw;
   height: 100vh;
@@ -155,16 +160,16 @@ body.page-template-page-fullsingle-split {
         width: 100%;
         height: auto; } }
     .fs-split .split-content .split-content-vertically-center {
-      padding: 80px;
+      padding: 80px 80px 5px 80px;
       max-width: 640px;
       margin-top: auto;
       margin-bottom: auto; }
       @media (max-width: 1200px) {
         .fs-split .split-content .split-content-vertically-center {
-          padding: 60px; } }
+          padding: 60px 60px 5px 60px; } }
       @media (max-width: 800px) {
         .fs-split .split-content .split-content-vertically-center {
-          padding: 40px; } }
+          padding: 40px 40px 5px 40px; } }
 
 .split-intro {
   font-weight: 600;
@@ -234,7 +239,9 @@ body.page-template-page-fullsingle-split {
   display: inline-block;
 }
 
-
+.split-lists {
+  margin-bottom: 50px;
+}
 .split-credit {
   opacity: 0.4; }
   .split-credit p {
