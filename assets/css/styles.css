@@ -321,6 +321,6 @@ p {
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
 /* styles.css */
-h2.section-title, .meta {
+h2.section-title, h2.container-block-title, .meta, h1.name, h3.tagline {
   font-family: Montserrat;
 }
