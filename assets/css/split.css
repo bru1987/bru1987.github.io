@@ -203,9 +203,9 @@ ul#projects {
     transition-duration: 0.5s;
     border-bottom: 1px dotted #848d96; }
     .split-bio a:hover {
-      color: #CA486d;
+      color: #47bec7;
       transition-duration: 0.1s;
-      border-bottom: 1px dotted #CA486d; }
+      border-bottom: 1px dotted #47bec7; }
 
 .split-lists .split-list {
   width: 100%;
