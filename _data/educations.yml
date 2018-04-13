@@ -1,15 +1,31 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
+  degree: Mestrado em Proteção de Sistemas Elétricos de Potência
+  university: Universidade Federal do ABC (UFABC)
+  time: 2016 - 2018
   details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
   pellentesque eu, pretium quis, sem."
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
+  degree: Curso de especialização em Proteção de Sistemas Elétricos de Potência (CEPSE)
+  university: Universidade Federal de Itajubá (UniFEI)
+  time: 2013 - 2013
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+- education:
+  degree: BEng in Electrical Engineering
+  university: WaterfordInstitute of Technology
+  time: 2009 - 2009
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+- education:
+  degree: Engenharia Elétrica com ênfase em Eletrônica
+  university: Instituto Mauá de Tecnologia
+  time: 2006 - 2011
   details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,

@@ -2,22 +2,26 @@ intro: "You can list your side projects or open source libraries in this section
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
+    title: TopTutores
     link: "#hook"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
   - project:
-    title: DevStudio
+    title: Curso de Cálculo
     link: "#"
     tagline: "A responsive website template designed to help web developers/designers market their services."
   - project:
-    title: Tempo
+    title: EngeCuca
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
   - project:
-    title: Atom
+    title: Euler in Python
     link: "#"
     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
   - project:
-    title: Delta
+    title: Machine Learning
+    link: "#"
+    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - project:
+    title: Fórum de Cálculo
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
