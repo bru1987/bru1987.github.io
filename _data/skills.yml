@@ -8,10 +8,7 @@
   name: LaTeX
   level: 98%
 - skill:
-  name: Wordpress
-  level: 98%
-- skill:
-  name: Google Adwords and Analytics
+  name: Adwords & Analytics
   level: 98%
 - skill:
   name: MATLAB
@@ -25,3 +22,6 @@
 - skill:
   name: Machine Learning
   level: 60%
+- skill:
+  name: Wordpress
+  level: 50%
