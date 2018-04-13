@@ -25,9 +25,9 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 
 #sidebar links
 email: bru1987@gmail.com
-phone: 012 345 6789
+#phone: 012 345 6789
 website: bruno3s.com.br #do not add http://
-linkedin: /in/bruno3s
+linkedin: bruno3s
 github: bruno3s
 #twitter: '@bruno.3s'
 #Update all the sections by editing the files inside _data folder.
