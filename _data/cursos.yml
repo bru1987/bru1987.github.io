@@ -1,4 +1,12 @@
 - curso:
+  title: Python para Data Science and Machine Learning
+  university: Udemy
+  time: 2018 (atual)
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+- curso:
   title: Machine learning
   university: Stanford University (Udemy)
   time: 11 semanas (2017)
@@ -22,11 +30,4 @@
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
   pellentesque eu, pretium quis, sem."
-- curso:
-  title: Python para Data Science and Machine Learning
-  university: Udemy
-  time: 2018 (atual)
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+
