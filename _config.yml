@@ -1,6 +1,6 @@
 # Site Settings
 title: C.V.
-url: "http://bruno3s.com.br"
+url: "http://www.bruno3s.com"
 baseurl: "" #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 repository: bruno3s/bru1987
@@ -18,7 +18,8 @@ permalink: pretty
 name: Bruno Silva
 tagline: Engenheiro Eletricista
 pic: bruno.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: I'm Bruno, a 32 year-old Engineer and teacher. I graduated in Electrical Engineering and I have a Masters in Artificial Intelligence. Throughout the years I had the opportunity to work with students from the top international schools in São Paulo (such as Graded, St. Paul's and St. Francis) as a private tutor. I am currently working as a Mathematics High School teacher at Chapel.
+summary: Hey,
+I'm Bruno, a 32 year-old Engineer and teacher. I graduated in Electrical Engineering and I have a Masters in Artificial Intelligence. Throughout the years I had the opportunity to work with students from the top international schools in São Paulo (such as Graded, St. Paul's and St. Francis) as a private tutor. I am currently working as a Mathematics High School teacher at Chapel.
 
 #sidebar links
 email: bru1987@gmail.com
