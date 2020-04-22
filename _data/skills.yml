@@ -1,30 +1,24 @@
 - skill:
-  name: Cálculo
+  name: Mathematics
   level: 100%
 - skill:
-  name: Matemática
+  name: Calculus
   level: 100%
 - skill:
-  name: LaTeX
+  name: Numerical Methods
   level: 100%
 - skill:
-  name: Jupyter
-  level: 100%
-- skill:
-  name: Adwords & Analytics
+  name: Differential Equations
   level: 100%
 - skill:
   name: MATLAB
   level: 100%
 - skill:
-  name: SQL
+  name: IB (International Baccalaureate)
   level: 100%
 - skill:
   name: Python
   level: 100%
 - skill:
   name: Machine Learning
-  level: 100%
-- skill:
-  name: Wordpress
   level: 100%
