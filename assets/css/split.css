@@ -186,6 +186,11 @@ ul#projects {
     color: #47bec7; }
   .split-intro .tagline {
     color: #CCCCCC; }
+    @media (max-width: 400px) {
+      .split-intro .tagline {
+        font-size: 3.2rem;
+      }
+    }
 
 .split-bio {
   padding: 40px 0 40px 0;
