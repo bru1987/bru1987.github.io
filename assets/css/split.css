@@ -218,7 +218,7 @@ ul#projects {
   margin-bottom: 20px; }
   @media (max-width: 500px) {
     .split-lists .split-list {
-      width: 90%; } }
+      width: 100%; } }
   .split-lists .split-list h3 {
     font-weight: 400;
     text-transform: uppercase;
@@ -241,7 +241,7 @@ ul#projects {
         transition-duration: 0.1s; }
 
 .split-lists .split-list li {
-  width: 32%;
+  width: 48%;
   display: inline-block;
 }
 
