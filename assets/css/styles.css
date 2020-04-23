@@ -365,3 +365,6 @@ font-family:  Lora;
   font-size: 13px;
   letter-spacing: -0.5px;
 }
+.languages-container li {
+  font-size: 13px;
+}
