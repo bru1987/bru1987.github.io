@@ -345,30 +345,16 @@ h2.section-title, h2.container-block-title, .meta, h1.name, h3.tagline {
           animation: full-circle .5s ease-out;
 }
 
-@keyframes float {
-  0% {
-    box-shadow: 0 5px 15px 0px rgba(255,255,255,0.6);
-    transform: translatey(0px);
-  }
-  50% {
-    box-shadow: 0 25px 15px 0px rgba(255,255,255,0.2);
-    transform: translatey(-2px);
-  }
-  100% {
-    box-shadow: 0 5px 15px 0px rgba(255,255,255,0.6);
-    transform: translatey(0px);
-  }
-}
-
-.profile-img {
-  animation: float 4s ease-in-out infinite;
-}
-
 .education-container .item h4, .languages-container li, .project-title a,
-.publication-title, h3.level-title {
+.publication-title, h3.level-title, .contact-container {
   font-family: Montserrat;
 }
 
 h5.meta {
 font-family:  Lora;
+}
+
+h3.level-title {
+  font-weight:  normal;
+  text-transform: uppercase;
 }
