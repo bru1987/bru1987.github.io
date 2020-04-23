@@ -218,7 +218,7 @@ ul#projects {
   margin-bottom: 20px; }
   @media (max-width: 500px) {
     .split-lists .split-list {
-      width: 90%; } }
+      width: 100%; } }
   .split-lists .split-list h3 {
     font-weight: 400;
     text-transform: uppercase;
@@ -241,7 +241,7 @@ ul#projects {
         transition-duration: 0.1s; }
 
 .split-lists .split-list li {
-  width: 32%;
+  width: 48%;
   display: inline-block;
 }
 
@@ -255,41 +255,3 @@ ul#projects {
     line-height: 14px; }
     .split-credit p a {
       color: #848d96; }
-
-.split-video {
-  overflow: hidden;
-  position: relative; }
-
-.video-wrap {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%); }
-
-.video-container {
-  position: relative;
-  overflow: hidden;
-  height: 56.25vw;
-  width: 100vw; }
-  @media (max-aspect-ratio: 16 / 9) {
-    .video-container {
-      height: 100vh;
-      width: 177.7777777778vh; } }
-
-.video-container iframe,
-.video-container object,
-.video-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%; }
-
-video.video {
-  -o-object-fit: cover;
-     object-fit: cover;
-  -o-object-position: 50% 50%;
-     object-position: 50% 50%;
-  width: 100%;
-  height: 100%; }
