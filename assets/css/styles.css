@@ -1,8 +1,7 @@
 body {
   font-family: 'Lora', sans-serif;
   color: #545E6C;
-  /* background: #f5f5f5; */
-  background: #061C30;
+  background: #f5f5f5;
   font-size: 14px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
@@ -60,8 +59,6 @@ p {
   background: #061C30;
   text-align: center;
   color: #fff;
-  border: 1px solid #ffffff70;
-  border-bottom: unset;
 }
 .sidebar-wrapper .name {
   font-size: 32px;
@@ -365,4 +362,13 @@ h2.section-title, h2.container-block-title, .meta, h1.name, h3.tagline {
 
 .profile-img {
   animation: float 4s ease-in-out infinite;
+}
+
+.education-container .item h4, .languages-container li, .project-title a,
+.publication-title, h3.level-title {
+  font-family: Montserrat;
+}
+
+h5.meta {
+font-family:  Lora;
 }
