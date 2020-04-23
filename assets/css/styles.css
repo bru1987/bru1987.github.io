@@ -321,3 +321,29 @@ p {
 h2.section-title, h2.container-block-title, .meta, h1.name, h3.tagline {
   font-family: Montserrat;
 }
+
+@-webkit-keyframes full-circle {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(-360deg);
+            transform: rotate(-360deg);
+  }
+}
+@keyframes full-circle {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(-360deg);
+            transform: rotate(-360deg);
+  }
+}
+
+.section:hover .fa, .section-title .fa:hover {
+  -webkit-animation: full-circle .5s ease-out;
+          animation: full-circle .5s ease-out;
+}
