@@ -349,12 +349,22 @@ h2.section-title, h2.container-block-title, .meta, h1.name, h3.tagline {
 .publication-title, h3.level-title, .contact-container {
   font-family: Montserrat;
 }
+.sidebar-wrapper .item h4 {
+  font-weight:  normal;
+  text-transform: uppercase;
+  font-size: 13px;
+}
 
 h5.meta {
 font-family:  Lora;
 }
 
-h3.level-title {
+.skillset h3.level-title {
   font-weight:  normal;
   text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: -0.5px;
+}
+.languages-container li {
+  font-size: 13px;
 }
