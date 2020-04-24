@@ -133,7 +133,6 @@ p {
   color: rgba(255, 255, 255, 0.6);
 }
 .sidebar-wrapper .languages-list {
-  text-transform: uppercase;
   margin-bottom: 0;
 }
 .sidebar-wrapper .languages-list li {
