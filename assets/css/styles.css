@@ -346,7 +346,7 @@ h2.section-title, h2.container-block-title, .meta, h1.name, h3.tagline {
 }
 
 .education-container .item h4, .languages-container li, .project-title a,
-.publication-title, h3.level-title, .contact-container {
+.publication-title, h3.level-title, .contact-container, .list-unstyled.interests-list {
   font-family: Montserrat;
 }
 .sidebar-wrapper .item h4 {
