@@ -18,6 +18,12 @@
 
     </div><!--//meta-->
 
+    {% if academic.details %}
+    <div class="details">
+      <p>{{ academic.details }}</p>
+    </div><!--//details-->
+    {% endif %}
+
   </div><!--//item-->
 {% endfor %}
 

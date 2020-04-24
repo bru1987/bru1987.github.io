@@ -2,15 +2,19 @@
   degree: Mestrado em Proteção de Sistemas Elétricos de Potência
   university: Universidade Federal do ABC (UFABC)
   time: 2016 - atual
+  details: "Description 1"
 - academic:
   degree: Curso de especialização em Proteção de Sistemas Elétricos de Potência (CEPSE)
   university: Universidade Federal de Itajubá (UniFEI)
   time: 2013 - 2013
+  details: "Description 2"
 - academic:
   degree: BEng in Electrical Engineering
   university: Waterford Institute of Technology
   time: 2009 - 2009
+  details: "Description 3"
 - academic:
   degree: Engenharia Elétrica com ênfase em Eletrônica
   university: Instituto Mauá de Tecnologia
   time: 2006 - 2012
+  details: "Description 4"
