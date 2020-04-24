@@ -368,3 +368,7 @@ font-family:  Lora;
 .languages-container li {
   font-size: 13px;
 }
+
+.main-wrapper .lower-row {
+  position: relative;
+}

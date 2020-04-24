@@ -1,0 +1,25 @@
+{% if site.data.academics %}
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-briefcase"></i>Formação Acadêmica</h2>
+
+{% for academic in site.data.academics %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ academic.degree }}</h3>
+      </div><!--//upper-row-->
+
+      <div class="lower-row">
+        <div class="company">{{ academic.university }}</div>
+        <div class="time">{{ academic.time }}</div>
+      </div>
+
+    </div><!--//meta-->
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}
