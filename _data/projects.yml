@@ -4,12 +4,16 @@ projects:
   - project:
     title: BPrep
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "Private tutoring company focused on bilingual students across international schools across Brazil"
   - project:
     title: Curso de Cálculo
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "Learning environment on Calculus for Brazilian Engineering undergraduates."
   - project:
     title: 30 dias programando
+    link: "#"
+    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - project:
+    title: Domínio da Matemática
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
