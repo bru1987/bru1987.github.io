@@ -13,6 +13,9 @@
 - skill:
   name: IB curriculum
   level: 100%
+- skill:
+  name: IB Mathematics AA (SL and HL)
+  level: 100%
 - skill: 
   name: MATLAB
   level: 100%
