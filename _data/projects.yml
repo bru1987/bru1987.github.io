@@ -1,19 +1,19 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "These are the side projects I am currently working on."
 projects:
-  - project:
+- project:
     title: BPrep
     link: "#hook"
     tagline: "Private tutoring company focused on bilingual students across international schools across Brazil"
-  - project:
+- project:
     title: Curso de Cálculo
     link: "#"
     tagline: "Learning environment on Calculus for Brazilian Engineering undergraduates."
-  - project:
+- project:
+    title: Domínio da Matemática
+    link: "#"
+    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"  
+- project:
     title: 30 dias programando
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  - project:
-    title: Domínio da Matemática
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  
