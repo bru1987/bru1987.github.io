@@ -11,10 +11,10 @@
   name: Differential Equations
   level: 100%
 - skill:
-  name: MATLAB
-  level: 100%
-- skill:
   name: IB curriculum
+  level: 100%
+- skill: 
+  name: MATLAB
   level: 100%
 - skill:
   name: Python
