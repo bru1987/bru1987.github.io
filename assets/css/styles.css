@@ -372,3 +372,7 @@ font-family:  Lora;
 .main-wrapper .lower-row {
   position: relative;
 }
+
+.experiences-section .details > ul {
+  padding-left: 20px;
+}
