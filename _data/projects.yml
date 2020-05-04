@@ -3,17 +3,17 @@ intro: "You can list your side projects or open source libraries in this section
 projects:
   - project:
     title: BPrep
-    link: "#hook"
+    link: "http://www.bprep.com.br"
     tagline: "Private tutoring company focused on bilingual students across international schools across Brazil"
   - project:
     title: Curso de Cálculo
-    link: "#"
+    link: "http://www.cursodecalculo.com.br"
     tagline: "Learning environment on Calculus for Brazilian Engineering undergraduates."
   - project:
     title: Euler in Python
-    link: "#"
+    link: "http://www.eulerinpython.com"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
   - project:
     title: Domínio da Matemática
-    link: "#"
+    link: "http://www.dominiodamatematica.com.br"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
