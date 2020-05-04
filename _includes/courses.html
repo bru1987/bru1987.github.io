@@ -1,4 +1,4 @@
-{% if site.data.educations %}
+{% if site.data.courses %}
     {% if site.education_in_main %}
 
         <!-- Education Section -->
@@ -32,11 +32,11 @@
     <!-- Cursos container -->
     <div class="education-container container-block">
         <h2 class="container-block-title">Other courses</h2>
-        {% for cusos in site.data.cursos %}
+        {% for course in site.data.courses %}
             <div class="item">
-            <h4 class="degree">{{ cusos.title }}</h4>
-          <h5 class="meta">{{ cusos.university }}</h5>
-          <div class="time">{{ cusos.time }}</div>
+            <h4 class="degree">{{ course.title }}</h4>
+          <h5 class="meta">{{ course.university }}</h5>
+          <div class="time">{{ course.time }}</div>
         </div><!--//item-->
       {% endfor %}
 
