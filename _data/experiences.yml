@@ -1,13 +1,15 @@
 - experience:
   role: Chapel School
   time: 2018 - Present
-  company: Fundador 
-  details: "High school Mathematics teacher for middle years and IB DP (International Baccalaureate)."
+  company: High School Mathematics Teacher 
+  details: "High school Mathematics teacher for middle years and IB DP (International Baccalaureate).
+* Item 1
+"
 - experience:
   role: BPrep
   time: 2014 - Present
-  company: Fundador 
-  details: "Owner of private tutoring company specialized in international schools' curriculum."
+  company: Owner 
+  details: "Private tutoring company specialized in international schools' curriculum."
 - experience:
   role: Instituto Mauá de Tecnologia
   time: 2013 - 2015
