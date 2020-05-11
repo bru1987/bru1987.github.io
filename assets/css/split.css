@@ -116,7 +116,7 @@ body.page-template-page-fullsingle-split {
   body.page-template-page-fullsingle-split p {
     color: #848d96; }
 
-ul#projects {
+ul#projects, ul#social {
   line-height: 0rem;
   margin-top: 12px;
 }
