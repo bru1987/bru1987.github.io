@@ -2,7 +2,7 @@
   role: Chapel School
   time: 2018 - Present
   company: High School Mathematics Teacher
-  details: "High school Mathematics teacher for middle years and IB DP (International Baccalaureate)"
+  details: "High school Mathematics teacher for middle years and IB DP (International Baccalaureate)."
   bullets:
   - Created a curriculum based on Standards-Based Grading for the school's 10th grade
   - Created a specific material for all three tiers on the 10th grade class
@@ -13,15 +13,15 @@
   role: BPrep
   time: 2014 - Present
   company: Owner
-  details: "Private tutoring company aimed for students from international schools"
+  details: "Private tutoring company aimed for students from international schools. Topics taught include but are not restricted to Mathematics HL, Mathematics SL, Calculus and Differential Equations."
   bullets:
   - Adressing student's personal needs XXX
-  - Topics taught - Mathematics HL, Mathematics SL
+  -
 - experience:
   role: Instituto Mauá de Tecnologia
   time: 2013 - 2015
   company: Auxiliar de Coordenação
-  details: "Support teacher for freshman year students on Calculus I and Calculus II"
+  details: "Support teacher for freshman year students on college level Calculus"
   bullets:
   - Creating materials for Calculus classes and assignments
   - Support lab
