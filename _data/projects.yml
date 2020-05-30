@@ -7,7 +7,7 @@ projects:
     tagline: "Private tutoring company focused on bilingual students across international schools across Brazil"
   - project:
     title: Curso de Cálculo
-    link: "http://www.youtube.com/cursodecalculo"
+    link: "http://www.cursodecalculo.com.br"
     tagline: "Learning environment on Calculus for Brazilian Engineering undergraduates."
   - project:
     title: Euler in Python
