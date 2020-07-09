@@ -1,8 +1,8 @@
 - skill:
-  name: IB Mathematics AA (SL and HL)
+  name: IB Mathematics AA (HL and SL)
   level: 100%
 - skill:
-  name: IB Mathematics AI (SL and HL)
+  name: IB Mathematics AI (HL and SL)
   level: 100%
 - skill:
   name: Calculus
@@ -13,7 +13,7 @@
 - skill:
   name: Differential Equations
   level: 100%
-- skill: 
+- skill:
   name: MATLAB
   level: 100%
 - skill:
