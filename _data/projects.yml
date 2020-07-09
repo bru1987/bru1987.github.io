@@ -2,10 +2,6 @@ intro: "You can list your side projects or open source libraries in this section
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: BPrep
-    link: "http://www.bprep.com.br"
-    tagline: "Private tutoring company focused on bilingual students across international schools across Brazil"
-  - project:
     title: Curso de Cálculo
     link: "http://www.cursodecalculo.com.br"
     tagline: "Learning environment on Calculus for Brazilian Engineering undergraduates."
