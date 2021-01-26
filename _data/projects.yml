@@ -4,6 +4,6 @@ projects:
     link: "http://www.cursodecalculo.com.br"
     tagline: "Learning environment on Calculus for Brazilian Engineering undergraduates."
   - project:
-    title: Euler in Python
-    link: "http://www.eulerinpython.com"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: HLMATH
+    link: "http://www.hlmath.com"
+    tagline: "Website with weekly IB HL Mathematics style questions/challenges"
