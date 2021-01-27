@@ -3,7 +3,3 @@ projects:
     title: Curso de Cálculo
     link: "http://www.cursodecalculo.com.br"
     tagline: "Learning environment on Calculus for Brazilian Engineering undergraduates."
-  - project:
-    title: HLMATH
-    link: "http://www.hlmath.com"
-    tagline: "Website with weekly IB HL Mathematics style questions and challenges."
