@@ -9,14 +9,6 @@
   - Curriculum developer of 10th grade using SBG and tiered instruction
   - Grade level leader of 9th and 10th grades
 - experience:
-  role: Instituto Mauá de Tecnologia
-  time: March 2013 - May 2015
-  company: Auxiliar da disciplina Cálculo I
-  details: "Support teacher for freshman year students on college level Calculus"
-  bullets:
-  - Teaching weekly support labs (Calculus I)
-  - Creating materials for Calculus classes and assignments
-- experience:
   role: TopTutores
   time: March 2015 - Present
   company: Self employed
@@ -24,3 +16,11 @@
   bullets:
   - Private tutoring lessons on Calculus, Differential Equations, Numerical Methods and Linear Algebra
   - Private tutoring for IB students (MYP and DP)
+- experience:
+  role: Instituto Mauá de Tecnologia
+  time: March 2013 - May 2015
+  company: Auxiliar da disciplina Cálculo I
+  details: "Support teacher for freshman year students on college level Calculus"
+  bullets:
+  - Teaching weekly support labs (Calculus I)
+  - Creating materials for Calculus classes and assignments
