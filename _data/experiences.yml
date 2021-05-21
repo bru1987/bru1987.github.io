@@ -16,3 +16,11 @@
   bullets:
   - Teaching weekly support labs (Calculus I)
   - Creating materials for Calculus classes and assignments
+- experience:
+  role: TopTutores
+  time: March 2015 - Present
+  company: Self employed
+  details: "One on one private tutoring for Engineering and IB students"
+  bullets:
+  - Private tutoring lessons on Calculus, Differential Equations, Numerical Methods and Linear Algebra
+  - Private tutoring for IB students (MYP and DP)
